@@ -1,0 +1,59 @@
+.font-size-13pt{font-size:13pt; //font-family: Tahoma;}
+.font-size-12pt{font-size:12pt; //font-family: Tahoma;}
+.font-size-11pt{font-size:11pt; //font-family: Tahoma;}
+.font-size-10pt{font-size:10pt; //font-family: Tahoma;}
+.font-size-9pt{font-size:9pt; 	//font-family: Tahoma;}
+.font-size-8pt{font-size:8pt; 	//font-family: Tahoma;}
+
+.ft-6{font-size:6pt;}
+.ft-7{font-size:7pt;}
+.ft-8{font-size:8pt;}
+.ft-9{font-size:9pt;}
+.ft-10{font-size:10pt;}
+.ft-10_5{font-size:10.5pt;}
+.ft-11{font-size:11pt;}
+.ft-12{font-size:12pt;}
+.ft-13{font-size:13pt;}
+.ft-14{font-size:14pt;}
+.ft-15{font-size:15pt;}
+.ft-16{font-size:16pt;}
+
+.f-obj{font-size:12pt}
+.f-obj-m{font-size:10pt}
+.f-obj-s{font-size:9pt}
+.f-path{font-size:13pt}
+.f-path-s{font-size:10pt}
+.f-dev{font-size:12pt}
+.f-dev-s{font-size:9pt}
+.fz-bw{font-size: .85rem}
+.f-inst-unit{font-size: 8pt;font-family: Tahoma;}
+
+.font-objectS .f-obj{font-size:6.8pt; font-family: Tahoma;}
+.font-objectS .f-arrow{font-size:10pt; font-family: Tahoma;}
+.font-objectS .f-inst-value{font-size:10.5pt; font-family: Tahoma;}
+.font-objectS .f-inst-unit{font-size:8pt; font-family: Tahoma;}
+.f-filter-s{font-size:9.5pt; font-family: Tahoma;}
+.sb-inf .tab-content .tab-pane{padding: 10px 0 0 0}
+
+.fw-1{font-weight:100;}
+.fw-2{font-weight:200;}
+.fw-3{font-weight:300;}
+.fw-4{font-weight:400;}
+.fw-5{font-weight:500;}
+.fw-6{font-weight:600;}
+.fw-7{font-weight:700;}
+.fw-8{font-weight:800;}
+.fw-9{font-weight:900;}
+
+.fz-8{font-size: .625rem}
+.fz-10{font-size: .7rem}
+.fz-12{font-size: .75rem}
+.fz-14{font-size: .875rem}
+.fz-15{font-size: 0.935rem}
+.fz-16{font-size: 1rem}
+.fz-17{font-size: 1.05rem}
+.fz-18{font-size: 1.125rem}
+.fz-20{font-size: 1.25rem}
+.fz-24{font-size: 1.5rem}
+.fz-30{font-size: 1.875rem}
+.fz-32{font-size: 2rem}

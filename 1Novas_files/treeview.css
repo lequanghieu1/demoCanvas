@@ -1,0 +1,93 @@
+
+/* tree view */
+.tree, .tree ul {
+    margin:0;
+    padding:0;
+    list-style:none
+}
+.tree ul {
+    margin-left:0.3em;
+    position:relative
+}
+.tree ul ul {
+    margin-left:.3em
+}
+.tree ul:before {
+    content:"";
+    display:block;
+    width:0;
+    position:absolute;
+    top:0;
+    bottom:0;
+    left:0;
+    border-left:1px dotted
+}
+.tree li {
+    margin:0;
+    padding:0 0 0 1em;
+    line-height:1.75em;
+    /*color:#191919;*/
+	color:#369;
+    font-weight:400;
+    position:relative
+}
+.tree ul li:before {
+    content:"";
+    display:block;
+    width:10px;
+    height:0;
+    border-top:1px dotted;
+    margin-top:-1px;
+    position:absolute;
+    top:1em;
+    left:0
+}
+.tree ul li:last-child:before {
+    background:#fff;
+    height:auto;
+    top:1em;
+    bottom:0
+}
+.indicator {
+    margin-right:5px;
+    color: #369;
+    font-size: 0.75em;
+}
+.tree li a {
+    text-decoration: none;
+    color:#369;
+}
+.tree li button, .tree li button:active, .tree li button:focus {
+    text-decoration: none;
+    color:#369;
+    border:none;
+    background:transparent;
+    margin:0px 0px 0px 0px;
+    padding:0px 0px 0px 0px;
+    outline: 0;
+}
+
+.tree i{color: #666}
+
+.tree a {
+    padding-right: 2px;
+}
+.tree a.active {
+    background-color: #D9D9D9;
+}
+
+.tree li a.nav-link {
+    padding:0;
+    padding-right: 2px;
+}
+
+.tree li a.nav-link:hover {
+    background-color: #E5F3FF;
+}
+
+
+
+.groupscreen li{line-height:1.65em}
+i.fa-chevron-right{color: #aaa;}
+i.fa-chevron-right:hover{color: #3d8bfd;}
+
