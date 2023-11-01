@@ -58,10 +58,8 @@ body {
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 70px auto;}
-	.app-header.navbar .navbar-brand {
-    background-image: url("../img/logo.png");background-size: 70px auto; width: 120px;}	
-	.app-header.navbar .navbar-brand-sm {
-    background-image: url("../img/logo-sm.png");background-size: 75px auto;}	
+	.app-header.navbar .navbar-brand {}	
+	.app-header.navbar .navbar-brand-sm {}	
   .app-header.navbar .navbar-nav {
     flex-direction: row;
     align-items: center; }
