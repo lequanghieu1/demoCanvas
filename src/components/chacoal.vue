@@ -1,4323 +1,3387 @@
 <template>
-  <div>
+  <div class="container-fluid">
     <div>
-      <div>
-        <svg id="sidebarBox1" viewBox="0 0 1230 720">
-          <g>
-            <g transform="translate(60 60)">
-              <g>
-                <path fill="#fff" d="m1,1h40v41h-40z"></path>
-                <path fill="#fff" d="m40,30h116v120h-116z"></path>
-                <path fill="#00CCFF" opacity="0.6" d="m1,1h40v41h-40z"></path>
-                <path
-                  fill="#00CCFF"
-                  opacity="0.6"
-                  d="m40,30h116v120h-116z"
-                ></path>
-                <path
-                  fill="#bbb"
-                  stroke="#4c4c4c"
-                  d="m1,1h40v150h115v-132h5v132h3v5h-131v-5h3v-105h-35v-4h35v-37h-35z"
-                ></path>
-                <path
-                  fill="#4c4c4c"
-                  stroke="#4c4c4c"
-                  d="m31,155h135v2h-135z"
-                ></path>
-                <path
-                  fill="none"
-                  stroke="none"
-                  d="m1,43v3h35v105h-3v5h131v-5h-3v-131"
-                ></path>
-                <path fill="none" stroke="none" d="m1,4v-3h39"></path>
-                <pattern
-                  id="pattern-checker"
-                  x="0"
-                  y="0"
-                  width="10"
-                  height="10"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
+      <div class="grid my-3 m-mobi">
+        <div class="g-col-12 g-col-lg-8 bg-grid-layout font-objectS">
+          <svg id="sidebarBox1" viewBox="0 0 1230 720">
+            <g>
+              <path
+                fill="#fff"
+                d="m770,11h62v570h-62v-28h27v-150h-27v-29h27v-155h-27v-28h27v-150h-27z"
+              ></path>
+              <path
+                fill="#00CCFF"
+                opacity="0.6"
+                d="m770,11h62v570h-62v-28h27v-150h-27v-29h27v-155h-27v-28h27v-150h-27z"
+              ></path>
+              <path
+                fill="#bbb"
+                stroke-width="0.8"
+                stroke="#4c4c4c"
+                d="m770,10h65v575h-65v-4h60.5v-566.7h-60"
+              ></path>
+              <path
+                fill="#bbb"
+                stroke-width="0.8"
+                stroke="#4c4c4c"
+                d="m770,39h30v155h-30v-4.2h26v-147h-26"
+              ></path>
+              <path
+                fill="#bbb"
+                stroke-width="0.8"
+                stroke="#4c4c4c"
+                d="m770,219h30v155h-30v-4.2h26v-147h-26"
+              ></path>
+              <path
+                fill="#bbb"
+                stroke-width="0.8"
+                stroke="#4c4c4c"
+                d="m770,399h30v155h-30v-4.2h26v-147h-26"
+              ></path>
+              <path fill="none" stroke="none" d="m770,9.8h64.5v575h-65"></path>
+              <path fill="none" stroke="none" d="m770,43h26v146.5h-26"></path>
+              <path fill="none" stroke="none" d="m770,223h26v146.5h-26"></path>
+              <path fill="none" stroke="none" d="m770,403h26v146.5h-26"></path>
+              <path
+                fill="none"
+                stroke="#56b8e7"
+                stroke-width="3"
+                d="m7,305h135v47a3,3 0 0 1 -3 3h-135 m138-50h30v-235a3,3 0 0 1 3-3h80 m0,180h-82 m0,180h82 m0,180h-80a3,3 0 0 1 -3-3v-300"
+              ></path>
+              <path
+                fill="none"
+                stroke="#56b8e7"
+                stroke-width="3"
+                d="m835,20h385 m-120,0v605 m0-70h-265 m0-180h265 m0-180h-265"
+              ></path>
+              <path fill="none" stroke="#56b8e7" d="m1090,625h20"></path>
+              <g transform="translate(245 -40)">
+                <g>
+                  <path fill="#fff" d="m12,55h115v80h-115z"></path>
+                  <path fill="#fff" d="m130,55h390v80h-390z"></path>
+                  <path
+                    fill="#00CCFF"
+                    opacity="0.6"
+                    d="m12,55h115v80h-115z"
+                  ></path>
+                  <path
+                    fill="#00CCFF"
+                    opacity="0.6"
+                    d="m130,55h390v80h-390z"
+                  ></path>
+                  <path
+                    fill="#999"
+                    stroke="#4c4c4c"
+                    d="m15,110l51,25h8l51-25v25h-110z"
+                  ></path>
+                  <path
+                    fill="#999"
+                    stroke="#4c4c4c"
+                    d="m130,110l44.75,25h8l44.75-25l44.75,25h8l44.75-25l44.75,25 h8l44.75-25l44.75,25h8l44.75-25v25h-390z"
+                  ></path>
+                  <path
                     fill="#bbb"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
+                    stroke="#4c4c4c"
+                    d="m10,50h5v85h110v-85h5v85h390v-85h5v85h3v5h-521v-5h3z"
+                  ></path>
+                  <path
                     fill="#bbb"
+                    stroke="#4c4c4c"
+                    d="m155,50v37h5v-37"
+                  ></path>
+                  <path
+                    fill="#ccc"
+                    stroke="#4c4c4c"
+                    d="m160,54v8h360v-8z"
+                  ></path>
+                  <path
+                    fill="none"
+                    stroke="none"
+                    d="m10,50v85h-3v4.5h521v-4.5h-3v-85"
+                  ></path>
+                  <path fill="#ddd" stroke="#4c4c4c" d="m125,92h5v8h-5z"></path>
+                  <pattern
+                    id="pattern-diagonal"
+                    x="0"
+                    y="0"
+                    width="21"
+                    height="21"
+                    patternUnits="userSpaceOnUse"
+                  >
+                    <rect
+                      x="0"
+                      y="0"
+                      width="21"
+                      height="21"
+                      stroke="none"
+                      fill="#bbb"
+                    ></rect>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m7,0l-7,7"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m14,0l-14,14"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m21,0l-21,21"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m21,7l-14,14"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m21,14l-7,7"
+                    ></path>
+                  </pattern>
+                  <rect
+                    x="160"
+                    y="65.3"
+                    width="360"
+                    height="13"
+                    fill="url(#pattern-diagonal)"
+                    stroke="#444"
                   ></rect>
-                </pattern>
-                <rect
-                  x="41"
-                  y="110"
-                  width="115"
-                  height="20"
-                  fill="url(#pattern-checker)"
-                  stroke="#444"
-                ></rect>
-                <pattern
-                  id="pattern-circles"
-                  x="0"
-                  y="0"
-                  width="3"
-                  height="3"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <circle cx="3" cy="3" r="3" fill="#444"></circle>
-                </pattern>
-                <rect
-                  x="41"
-                  y="70"
-                  width="115"
-                  height="40"
-                  fill="url(#pattern-circles)"
-                  stroke="#444"
-                ></rect>
-                <text fill="#555" class="ft-10" x="52" y="146">
-                  BỂ LỌC THAN 1
-                </text>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m15,43v95h25"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m156,25h49v10"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,147h45v80"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,62h60v37m0,6v120"
-                ></path>
-                <text fill="#555" class="ft-10" x="170" y="245">MƯƠNG TN</text>
-                <text fill="#555" class="ft-10" x="170" y="22">MƯƠNG TN</text>
-                <path
-                  transform="translate(208,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,25) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <rect
-                  x="23"
-                  y="162"
-                  width="152"
-                  height="21"
-                  fill="#888"
-                  stroke="#444"
-                ></rect>
-                <rect
-                  x="23"
-                  y="186"
-                  width="152"
-                  height="21"
-                  fill="#aaff77"
-                  stroke="#aaff77"
-                ></rect>
-                <rect
-                  x="23"
-                  y="210"
-                  width="152"
-                  height="21"
-                  fill="#ff0000"
-                  stroke="#ff0000"
-                ></rect>
-                <text class="ft-10" x="99" y="178" fill="#fff">
-                  <tspan text-anchor="middle">KIỂM TRA ĐIỀU KIỆN</tspan>
-                </text>
-                <text class="ft-10" x="99" y="201" fill="#444">
-                  <tspan text-anchor="middle">T.GIAN LỌC: 0.5 giờ</tspan>
-                </text>
-                <text class="ft-10" x="99" y="226" fill="#fff">
-                  <tspan text-anchor="middle">CHUẨN BỊ RỬA LỌC</tspan>
-                </text>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="180"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="200"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="220"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="240"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="260"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="280"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="300"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="320"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="340"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="360"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="380"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="400"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="420"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="440"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="460"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="480"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="500"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <path fill="none" stroke="none" d="m10,50h514"></path>
+                  <path fill="none" stroke="#4c4c4c" d="m10,50h514"></path>
+                </g>
               </g>
-            </g>
-            <g transform="translate(360 60)">
-              <g>
-                <path fill="#fff" d="m1,1h40v41h-40z"></path>
-                <path fill="#fff" d="m40,30h116v120h-116z"></path>
-                <path fill="#00CCFF" opacity="0.6" d="m1,1h40v41h-40z"></path>
-                <path
-                  fill="#00CCFF"
-                  opacity="0.6"
-                  d="m40,30h116v120h-116z"
-                ></path>
-                <path
-                  fill="#bbb"
-                  stroke="#4c4c4c"
-                  d="m1,1h40v150h115v-132h5v132h3v5h-131v-5h3v-105h-35v-4h35v-37h-35z"
-                ></path>
-                <path
-                  fill="#4c4c4c"
-                  stroke="#4c4c4c"
-                  d="m31,155h135v2h-135z"
-                ></path>
-                <path
-                  fill="none"
-                  stroke="none"
-                  d="m1,43v3h35v105h-3v5h131v-5h-3v-131"
-                ></path>
-                <path fill="none" stroke="none" d="m1,4v-3h39"></path>
-                <pattern
-                  id="pattern-checker"
-                  x="0"
-                  y="0"
-                  width="10"
-                  height="10"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
+              <g transform="translate(245 140) ">
+                <g>
+                  <path fill="#fff" d="m12,55h115v80h-115z"></path>
+                  <path fill="#fff" d="m130,55h390v80h-390z"></path>
+                  <path
+                    fill="#00CCFF"
+                    opacity="0.6"
+                    d="m12,55h115v80h-115z"
+                  ></path>
+                  <path
+                    fill="#00CCFF"
+                    opacity="0.6"
+                    d="m130,55h390v80h-390z"
+                  ></path>
+                  <path
+                    fill="#999"
+                    stroke="#4c4c4c"
+                    d="m15,110l51,25h8l51-25v25h-110z"
+                  ></path>
+                  <path
+                    fill="#999"
+                    stroke="#4c4c4c"
+                    d="m130,110l44.75,25h8l44.75-25l44.75,25h8l44.75-25l44.75,25 h8l44.75-25l44.75,25h8l44.75-25v25h-390z"
+                  ></path>
+                  <path
                     fill="#bbb"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
+                    stroke="#4c4c4c"
+                    d="m10,50h5v85h110v-85h5v85h390v-85h5v85h3v5h-521v-5h3z"
+                  ></path>
+                  <path
                     fill="#bbb"
+                    stroke="#4c4c4c"
+                    d="m155,50v37h5v-37"
+                  ></path>
+                  <path
+                    fill="#ccc"
+                    stroke="#4c4c4c"
+                    d="m160,54v8h360v-8z"
+                  ></path>
+                  <path
+                    fill="none"
+                    stroke="none"
+                    d="m10,50v85h-3v4.5h521v-4.5h-3v-85"
+                  ></path>
+                  <path fill="#ddd" stroke="#4c4c4c" d="m125,92h5v8h-5z"></path>
+                  <pattern
+                    id="pattern-diagonal"
+                    x="0"
+                    y="0"
+                    width="21"
+                    height="21"
+                    patternUnits="userSpaceOnUse"
+                  >
+                    <rect
+                      x="0"
+                      y="0"
+                      width="21"
+                      height="21"
+                      stroke="none"
+                      fill="#bbb"
+                    ></rect>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m7,0l-7,7"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m14,0l-14,14"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m21,0l-21,21"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m21,7l-14,14"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m21,14l-7,7"
+                    ></path>
+                  </pattern>
+                  <rect
+                    x="160"
+                    y="65.3"
+                    width="360"
+                    height="13"
+                    fill="url(#pattern-diagonal)"
+                    stroke="#444"
                   ></rect>
-                </pattern>
-                <rect
-                  x="41"
-                  y="110"
-                  width="115"
-                  height="20"
-                  fill="url(#pattern-checker)"
-                  stroke="#444"
-                ></rect>
-                <pattern
-                  id="pattern-circles"
-                  x="0"
-                  y="0"
-                  width="3"
-                  height="3"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <circle cx="3" cy="3" r="3" fill="#444"></circle>
-                </pattern>
-                <rect
-                  x="41"
-                  y="70"
-                  width="115"
-                  height="40"
-                  fill="url(#pattern-circles)"
-                  stroke="#444"
-                ></rect>
-                <text fill="#555" class="ft-10" x="52" y="146">
-                  BỂ LỌC THAN 2
-                </text>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m15,43v95h25"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m156,25h49v10"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,147h45v80"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,62h60v37m0,6v120"
-                ></path>
-                <text fill="#555" class="ft-10" x="170" y="245">MƯƠNG TN</text>
-                <text fill="#555" class="ft-10" x="170" y="22">MƯƠNG TN</text>
-                <path
-                  transform="translate(208,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,25) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <rect
-                  x="23"
-                  y="162"
-                  width="152"
-                  height="21"
-                  fill="#888"
-                  stroke="#444"
-                ></rect>
-                <rect
-                  x="23"
-                  y="186"
-                  width="152"
-                  height="21"
-                  fill="#aaff77"
-                  stroke="#aaff77"
-                ></rect>
-                <rect
-                  x="23"
-                  y="210"
-                  width="152"
-                  height="21"
-                  fill="#ff0000"
-                  stroke="#ff0000"
-                ></rect>
-                <text class="ft-10" x="99" y="178" fill="#fff">
-                  <tspan text-anchor="middle">KIỂM TRA ĐIỀU KIỆN</tspan>
-                </text>
-                <text class="ft-10" x="99" y="201" fill="#444">
-                  <tspan text-anchor="middle">T.GIAN LỌC: 0.5 giờ</tspan>
-                </text>
-                <text class="ft-10" x="99" y="226" fill="#fff">
-                  <tspan text-anchor="middle">CHUẨN BỊ RỬA LỌC</tspan>
-                </text>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="180"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="200"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="220"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="240"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="260"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="280"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="300"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="320"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="340"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="360"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="380"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="400"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="420"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="440"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="460"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="480"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="500"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <path fill="none" stroke="none" d="m10,50h514"></path>
+                  <path fill="none" stroke="#4c4c4c" d="m10,50h514"></path>
+                </g>
               </g>
-            </g>
-            <g transform="translate(660 60)">
-              <g>
-                <path fill="#fff" d="m1,1h40v41h-40z"></path>
-                <path fill="#fff" d="m40,30h116v120h-116z"></path>
-                <path fill="#00CCFF" opacity="0.6" d="m1,1h40v41h-40z"></path>
-                <path
-                  fill="#00CCFF"
-                  opacity="0.6"
-                  d="m40,30h116v120h-116z"
-                ></path>
-                <path
-                  fill="#bbb"
-                  stroke="#4c4c4c"
-                  d="m1,1h40v150h115v-132h5v132h3v5h-131v-5h3v-105h-35v-4h35v-37h-35z"
-                ></path>
-                <path
-                  fill="#4c4c4c"
-                  stroke="#4c4c4c"
-                  d="m31,155h135v2h-135z"
-                ></path>
-                <path
-                  fill="none"
-                  stroke="none"
-                  d="m1,43v3h35v105h-3v5h131v-5h-3v-131"
-                ></path>
-                <path fill="none" stroke="none" d="m1,4v-3h39"></path>
-                <pattern
-                  id="pattern-checker"
-                  x="0"
-                  y="0"
-                  width="10"
-                  height="10"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
+              <g transform="translate(245 320)">
+                <g>
+                  <path fill="#fff" d="m12,55h115v80h-115z"></path>
+                  <path fill="#fff" d="m130,55h390v80h-390z"></path>
+                  <path
+                    fill="#00CCFF"
+                    opacity="0.6"
+                    d="m12,55h115v80h-115z"
+                  ></path>
+                  <path
+                    fill="#00CCFF"
+                    opacity="0.6"
+                    d="m130,55h390v80h-390z"
+                  ></path>
+                  <path
+                    fill="#999"
+                    stroke="#4c4c4c"
+                    d="m15,110l51,25h8l51-25v25h-110z"
+                  ></path>
+                  <path
+                    fill="#999"
+                    stroke="#4c4c4c"
+                    d="m130,110l44.75,25h8l44.75-25l44.75,25h8l44.75-25l44.75,25 h8l44.75-25l44.75,25h8l44.75-25v25h-390z"
+                  ></path>
+                  <path
                     fill="#bbb"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
+                    stroke="#4c4c4c"
+                    d="m10,50h5v85h110v-85h5v85h390v-85h5v85h3v5h-521v-5h3z"
+                  ></path>
+                  <path
                     fill="#bbb"
+                    stroke="#4c4c4c"
+                    d="m155,50v37h5v-37"
+                  ></path>
+                  <path
+                    fill="#ccc"
+                    stroke="#4c4c4c"
+                    d="m160,54v8h360v-8z"
+                  ></path>
+                  <path
+                    fill="none"
+                    stroke="none"
+                    d="m10,50v85h-3v4.5h521v-4.5h-3v-85"
+                  ></path>
+                  <path fill="#ddd" stroke="#4c4c4c" d="m125,92h5v8h-5z"></path>
+                  <pattern
+                    id="pattern-diagonal"
+                    x="0"
+                    y="0"
+                    width="21"
+                    height="21"
+                    patternUnits="userSpaceOnUse"
+                  >
+                    <rect
+                      x="0"
+                      y="0"
+                      width="21"
+                      height="21"
+                      stroke="none"
+                      fill="#bbb"
+                    ></rect>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m7,0l-7,7"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m14,0l-14,14"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m21,0l-21,21"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m21,7l-14,14"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m21,14l-7,7"
+                    ></path>
+                  </pattern>
+                  <rect
+                    x="160"
+                    y="65.3"
+                    width="360"
+                    height="13"
+                    fill="url(#pattern-diagonal)"
+                    stroke="#444"
                   ></rect>
-                </pattern>
-                <rect
-                  x="41"
-                  y="110"
-                  width="115"
-                  height="20"
-                  fill="url(#pattern-checker)"
-                  stroke="#444"
-                ></rect>
-                <pattern
-                  id="pattern-circles"
-                  x="0"
-                  y="0"
-                  width="3"
-                  height="3"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <circle cx="3" cy="3" r="3" fill="#444"></circle>
-                </pattern>
-                <rect
-                  x="41"
-                  y="70"
-                  width="115"
-                  height="40"
-                  fill="url(#pattern-circles)"
-                  stroke="#444"
-                ></rect>
-                <text fill="#555" class="ft-10" x="52" y="146">
-                  BỂ LỌC THAN 3
-                </text>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m15,43v95h25"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m156,25h49v10"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,147h45v80"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,62h60v37m0,6v120"
-                ></path>
-                <text fill="#555" class="ft-10" x="170" y="245">MƯƠNG TN</text>
-                <text fill="#555" class="ft-10" x="170" y="22">MƯƠNG TN</text>
-                <path
-                  transform="translate(208,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,25) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <rect
-                  x="23"
-                  y="162"
-                  width="152"
-                  height="21"
-                  fill="#888"
-                  stroke="#444"
-                ></rect>
-                <rect
-                  x="23"
-                  y="186"
-                  width="152"
-                  height="21"
-                  fill="#aaff77"
-                  stroke="#aaff77"
-                ></rect>
-                <rect
-                  x="23"
-                  y="210"
-                  width="152"
-                  height="21"
-                  fill="#ff0000"
-                  stroke="#ff0000"
-                ></rect>
-                <text class="ft-10" x="99" y="178" fill="#fff">
-                  <tspan text-anchor="middle">KIỂM TRA ĐIỀU KIỆN</tspan>
-                </text>
-                <text class="ft-10" x="99" y="201" fill="#444">
-                  <tspan text-anchor="middle">T.GIAN LỌC: 0.5 giờ</tspan>
-                </text>
-                <text class="ft-10" x="99" y="226" fill="#fff">
-                  <tspan text-anchor="middle">CHUẨN BỊ RỬA LỌC</tspan>
-                </text>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="180"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="200"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="220"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="240"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="260"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="280"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="300"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="320"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="340"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="360"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="380"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="400"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="420"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="440"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="460"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="480"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="500"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <path fill="none" stroke="none" d="m10,50h514"></path>
+                  <path fill="none" stroke="#4c4c4c" d="m10,50h514"></path>
+                </g>
               </g>
-            </g>
-            <g transform="translate(960 60)">
-              <g>
-                <path fill="#fff" d="m1,1h40v41h-40z"></path>
-                <path fill="#fff" d="m40,30h116v120h-116z"></path>
-                <path fill="#00CCFF" opacity="0.6" d="m1,1h40v41h-40z"></path>
-                <path
-                  fill="#00CCFF"
-                  opacity="0.6"
-                  d="m40,30h116v120h-116z"
-                ></path>
-                <path
-                  fill="#bbb"
-                  stroke="#4c4c4c"
-                  d="m1,1h40v150h115v-132h5v132h3v5h-131v-5h3v-105h-35v-4h35v-37h-35z"
-                ></path>
-                <path
-                  fill="#4c4c4c"
-                  stroke="#4c4c4c"
-                  d="m31,155h135v2h-135z"
-                ></path>
-                <path
-                  fill="none"
-                  stroke="none"
-                  d="m1,43v3h35v105h-3v5h131v-5h-3v-131"
-                ></path>
-                <path fill="none" stroke="none" d="m1,4v-3h39"></path>
-                <pattern
-                  id="pattern-checker"
-                  x="0"
-                  y="0"
-                  width="10"
-                  height="10"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
+              <g transform="translate(245 500)">
+                <g>
+                  <path fill="#fff" d="m12,55h115v80h-115z"></path>
+                  <path fill="#fff" d="m130,55h390v80h-390z"></path>
+                  <path
+                    fill="#00CCFF"
+                    opacity="0.6"
+                    d="m12,55h115v80h-115z"
+                  ></path>
+                  <path
+                    fill="#00CCFF"
+                    opacity="0.6"
+                    d="m130,55h390v80h-390z"
+                  ></path>
+                  <path
+                    fill="#999"
+                    stroke="#4c4c4c"
+                    d="m15,110l51,25h8l51-25v25h-110z"
+                  ></path>
+                  <path
+                    fill="#999"
+                    stroke="#4c4c4c"
+                    d="m130,110l44.75,25h8l44.75-25l44.75,25h8l44.75-25l44.75,25 h8l44.75-25l44.75,25h8l44.75-25v25h-390z"
+                  ></path>
+                  <path
                     fill="#bbb"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
+                    stroke="#4c4c4c"
+                    d="m10,50h5v85h110v-85h5v85h390v-85h5v85h3v5h-521v-5h3z"
+                  ></path>
+                  <path
                     fill="#bbb"
+                    stroke="#4c4c4c"
+                    d="m155,50v37h5v-37"
+                  ></path>
+                  <path
+                    fill="#ccc"
+                    stroke="#4c4c4c"
+                    d="m160,54v8h360v-8z"
+                  ></path>
+                  <path
+                    fill="none"
+                    stroke="none"
+                    d="m10,50v85h-3v4.5h521v-4.5h-3v-85"
+                  ></path>
+                  <path fill="#ddd" stroke="#4c4c4c" d="m125,92h5v8h-5z"></path>
+                  <pattern
+                    id="pattern-diagonal"
+                    x="0"
+                    y="0"
+                    width="21"
+                    height="21"
+                    patternUnits="userSpaceOnUse"
+                  >
+                    <rect
+                      x="0"
+                      y="0"
+                      width="21"
+                      height="21"
+                      stroke="none"
+                      fill="#bbb"
+                    ></rect>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m7,0l-7,7"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m14,0l-14,14"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m21,0l-21,21"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m21,7l-14,14"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke-width="0.5"
+                      stroke="#444"
+                      d="m21,14l-7,7"
+                    ></path>
+                  </pattern>
+                  <rect
+                    x="160"
+                    y="65.3"
+                    width="360"
+                    height="13"
+                    fill="url(#pattern-diagonal)"
+                    stroke="#444"
                   ></rect>
-                </pattern>
-                <rect
-                  x="41"
-                  y="110"
-                  width="115"
-                  height="20"
-                  fill="url(#pattern-checker)"
-                  stroke="#444"
-                ></rect>
-                <pattern
-                  id="pattern-circles"
-                  x="0"
-                  y="0"
-                  width="3"
-                  height="3"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <circle cx="3" cy="3" r="3" fill="#444"></circle>
-                </pattern>
-                <rect
-                  x="41"
-                  y="70"
-                  width="115"
-                  height="40"
-                  fill="url(#pattern-circles)"
-                  stroke="#444"
-                ></rect>
-                <text fill="#555" class="ft-10" x="52" y="146">
-                  BỂ LỌC THAN 4
-                </text>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m15,43v95h25"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m156,25h49v10"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,147h45v80"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,62h60v37m0,6v120"
-                ></path>
-                <text fill="#555" class="ft-10" x="170" y="245">MƯƠNG TN</text>
-                <text fill="#555" class="ft-10" x="170" y="22">MƯƠNG TN</text>
-                <path
-                  transform="translate(208,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,25) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <rect
-                  x="23"
-                  y="162"
-                  width="152"
-                  height="21"
-                  fill="#888"
-                  stroke="#444"
-                ></rect>
-                <rect
-                  x="23"
-                  y="186"
-                  width="152"
-                  height="21"
-                  fill="#aaff77"
-                  stroke="#aaff77"
-                ></rect>
-                <rect
-                  x="23"
-                  y="210"
-                  width="152"
-                  height="21"
-                  fill="#ff0000"
-                  stroke="#ff0000"
-                ></rect>
-                <text class="ft-10" x="99" y="178" fill="#fff">
-                  <tspan text-anchor="middle">KIỂM TRA ĐIỀU KIỆN</tspan>
-                </text>
-                <text class="ft-10" x="99" y="201" fill="#444">
-                  <tspan text-anchor="middle">T.GIAN LỌC: 0.5 giờ</tspan>
-                </text>
-                <text class="ft-10" x="99" y="226" fill="#fff">
-                  <tspan text-anchor="middle">CHUẨN BỊ RỬA LỌC</tspan>
-                </text>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="180"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="200"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="220"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="240"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="260"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="280"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="300"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="320"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="340"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="360"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="380"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="400"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="420"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="440"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="460"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="480"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <circle
+                    fill="#dfdfdf"
+                    stroke="#4c4c4c"
+                    stroke-width="0.6"
+                    cx="500"
+                    cy="58"
+                    r="1.5"
+                  ></circle>
+                  <path fill="none" stroke="none" d="m10,50h514"></path>
+                  <path fill="none" stroke="#4c4c4c" d="m10,50h514"></path>
+                </g>
               </g>
+              <path
+                transform="translate(-7 300)"
+                fill="#999"
+                stroke="#999"
+                d="m10,10l8,-5l-8,-5"
+              ></path>
+              <path
+                transform="translate(-7 350)"
+                fill="#999"
+                stroke="#999"
+                d="m10,10l8,-5l-8,-5"
+              ></path>
+              <path
+                transform="translate(1210,690)"
+                fill="#999"
+                stroke="#999"
+                d="m10,10l8,-5l-8,-5"
+              ></path>
+              <path
+                transform="translate(1210,16)"
+                fill="#999"
+                stroke="#999"
+                d="m10,10l8,-5l-8,-5"
+              ></path>
+              <path
+                fill="none"
+                stroke="#0080ff"
+                stroke-width="1.5"
+                d="m1220,695h-90v-537a3,3 1 0 0 -3-3h-811v-55 m107,55v-65l-18-10h97l18,10 m3,65v-65l38-22h-95l-15,8 m167,79v-65l-18-10h97l18,10 m3,65v-65l38-22h-95l-15,8 m484,259h-814v-55 m107,55v-65l-18-10h97l18,10 m3,65v-65l38-22h-95l-15,8 m167,79v-65l-18-10h97l18,10 m3,65v-65l38-22h-95l-15,8 m484,259h-814v-55 m107,55v-65l-18-10h97l18,10 m3,65v-65l38-22h-95l-15,8 m167,79v-65l-18-10h97l18,10 m3,65v-65l38-22h-95l-15,8 m484,259h-814v-55 m107,55v-65l-18-10h97l18,10 m3,65v-65l38-22h-95l-15,8 m167,79v-65l-18-10h97l18,10 m3,65v-65l38-22h-95l-15,8"
+              ></path>
+              <path
+                fill="none"
+                stroke="#40afe4"
+                stroke-width="1.2"
+                d="m360,37v20h740 m-740-20l3-4 m-6,0l3,4 m0,180v20h740 m-740-20l3-4 m-6,0l3,4 m0,180v20h740 m-740-20l3-4 m-6,0l3,4 m0,180v20h740 m-740-20l3-4 m-6,0l3,4"
+              ></path>
+              <text fill="#555" class="ft-11" x="10" y="297">
+                Từ thiết bị trộn tĩnh
+              </text>
+              <text fill="#555" class="ft-11" x="10" y="347">
+                Từ trạm thu hồi
+              </text>
+              <text fill="#555" class="ft-11" x="1135" y="687">
+                Trạm thu hồi
+              </text>
+              <text fill="#555" class="ft-11" x="1140" y="14">Đến bể lọc</text>
+              <text fill="#555" class="ft-10" x="275" y="175">
+                VAN XẢ BÙN 4
+              </text>
+              <text fill="#555" class="ft-10" x="275" y="355">
+                VAN XẢ BÙN 3
+              </text>
+              <text fill="#555" class="ft-10" x="275" y="535">
+                VAN XẢ BÙN 2
+              </text>
+              <text fill="#555" class="ft-10" x="275" y="715">
+                VAN XẢ BÙN 1
+              </text>
+              <text fill="#555" class="ft-10" x="850" y="80">
+                VAN THU NƯỚC MẶT 4
+              </text>
+              <text fill="#555" class="ft-10" x="850" y="260">
+                VAN THU NƯỚC MẶT 3
+              </text>
+              <text fill="#555" class="ft-10" x="850" y="440">
+                VAN THU NƯỚC MẶT 2
+              </text>
+              <text fill="#555" class="ft-10" x="850" y="620">
+                VAN THU NƯỚC MẶT 1
+              </text>
             </g>
-            <g transform="translate(60 465)">
-              <g>
-                <path fill="#fff" d="m1,1h40v41h-40z"></path>
-                <path fill="#fff" d="m40,30h116v120h-116z"></path>
-                <path fill="#00CCFF" opacity="0.6" d="m1,1h40v41h-40z"></path>
-                <path
-                  fill="#00CCFF"
-                  opacity="0.6"
-                  d="m40,30h116v120h-116z"
-                ></path>
-                <path
-                  fill="#bbb"
-                  stroke="#4c4c4c"
-                  d="m1,1h40v150h115v-132h5v132h3v5h-131v-5h3v-105h-35v-4h35v-37h-35z"
-                ></path>
-                <path
-                  fill="#4c4c4c"
-                  stroke="#4c4c4c"
-                  d="m31,155h135v2h-135z"
-                ></path>
-                <path
-                  fill="none"
-                  stroke="none"
-                  d="m1,43v3h35v105h-3v5h131v-5h-3v-131"
-                ></path>
-                <path fill="none" stroke="none" d="m1,4v-3h39"></path>
-                <pattern
-                  id="pattern-checker"
-                  x="0"
-                  y="0"
-                  width="10"
-                  height="10"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
-                    fill="#bbb"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
-                    fill="#bbb"
-                  ></rect>
-                </pattern>
-                <rect
-                  x="41"
-                  y="110"
-                  width="115"
-                  height="20"
-                  fill="url(#pattern-checker)"
-                  stroke="#444"
-                ></rect>
-                <pattern
-                  id="pattern-circles"
-                  x="0"
-                  y="0"
-                  width="3"
-                  height="3"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <circle cx="3" cy="3" r="3" fill="#444"></circle>
-                </pattern>
-                <rect
-                  x="41"
-                  y="70"
-                  width="115"
-                  height="40"
-                  fill="url(#pattern-circles)"
-                  stroke="#444"
-                ></rect>
-                <text fill="#555" class="ft-10" x="52" y="146">
-                  BỂ LỌC THAN 5
-                </text>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m15,43v95h25"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m156,25h49v10"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,147h45v80"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,62h60v37m0,6v120"
-                ></path>
-                <text fill="#555" class="ft-10" x="170" y="245">MƯƠNG TN</text>
-                <text fill="#555" class="ft-10" x="170" y="22">MƯƠNG TN</text>
-                <path
-                  transform="translate(208,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,25) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <rect
-                  x="23"
-                  y="162"
-                  width="152"
-                  height="21"
-                  fill="#888"
-                  stroke="#444"
-                ></rect>
-                <rect
-                  x="23"
-                  y="186"
-                  width="152"
-                  height="21"
-                  fill="#aaff77"
-                  stroke="#aaff77"
-                ></rect>
-                <rect
-                  x="23"
-                  y="210"
-                  width="152"
-                  height="21"
-                  fill="#ff0000"
-                  stroke="#ff0000"
-                ></rect>
-                <text class="ft-10" x="99" y="178" fill="#fff">
-                  <tspan text-anchor="middle">KIỂM TRA ĐIỀU KIỆN</tspan>
-                </text>
-                <text class="ft-10" x="99" y="201" fill="#444">
-                  <tspan text-anchor="middle">T.GIAN LỌC: 0.5 giờ</tspan>
-                </text>
-                <text class="ft-10" x="99" y="226" fill="#fff">
-                  <tspan text-anchor="middle">CHUẨN BỊ RỬA LỌC</tspan>
-                </text>
-              </g>
-            </g>
-            <g transform="translate(360 465)">
-              <g>
-                <path fill="#fff" d="m1,1h40v41h-40z"></path>
-                <path fill="#fff" d="m40,30h116v120h-116z"></path>
-                <path fill="#00CCFF" opacity="0.6" d="m1,1h40v41h-40z"></path>
-                <path
-                  fill="#00CCFF"
-                  opacity="0.6"
-                  d="m40,30h116v120h-116z"
-                ></path>
-                <path
-                  fill="#bbb"
-                  stroke="#4c4c4c"
-                  d="m1,1h40v150h115v-132h5v132h3v5h-131v-5h3v-105h-35v-4h35v-37h-35z"
-                ></path>
-                <path
-                  fill="#4c4c4c"
-                  stroke="#4c4c4c"
-                  d="m31,155h135v2h-135z"
-                ></path>
-                <path
-                  fill="none"
-                  stroke="none"
-                  d="m1,43v3h35v105h-3v5h131v-5h-3v-131"
-                ></path>
-                <path fill="none" stroke="none" d="m1,4v-3h39"></path>
-                <pattern
-                  id="pattern-checker"
-                  x="0"
-                  y="0"
-                  width="10"
-                  height="10"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
-                    fill="#bbb"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
-                    fill="#bbb"
-                  ></rect>
-                </pattern>
-                <rect
-                  x="41"
-                  y="110"
-                  width="115"
-                  height="20"
-                  fill="url(#pattern-checker)"
-                  stroke="#444"
-                ></rect>
-                <pattern
-                  id="pattern-circles"
-                  x="0"
-                  y="0"
-                  width="3"
-                  height="3"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <circle cx="3" cy="3" r="3" fill="#444"></circle>
-                </pattern>
-                <rect
-                  x="41"
-                  y="70"
-                  width="115"
-                  height="40"
-                  fill="url(#pattern-circles)"
-                  stroke="#444"
-                ></rect>
-                <text fill="#555" class="ft-10" x="52" y="146">
-                  BỂ LỌC THAN 6
-                </text>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m15,43v95h25"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m156,25h49v10"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,147h45v80"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,62h60v37m0,6v120"
-                ></path>
-                <text fill="#555" class="ft-10" x="170" y="245">MƯƠNG TN</text>
-                <text fill="#555" class="ft-10" x="170" y="22">MƯƠNG TN</text>
-                <path
-                  transform="translate(208,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,25) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <rect
-                  x="23"
-                  y="162"
-                  width="152"
-                  height="21"
-                  fill="#888"
-                  stroke="#444"
-                ></rect>
-                <rect
-                  x="23"
-                  y="186"
-                  width="152"
-                  height="21"
-                  fill="#aaff77"
-                  stroke="#aaff77"
-                ></rect>
-                <rect
-                  x="23"
-                  y="210"
-                  width="152"
-                  height="21"
-                  fill="#ff0000"
-                  stroke="#ff0000"
-                ></rect>
-                <text class="ft-10" x="99" y="178" fill="#fff">
-                  <tspan text-anchor="middle">KIỂM TRA ĐIỀU KIỆN</tspan>
-                </text>
-                <text class="ft-10" x="99" y="201" fill="#444">
-                  <tspan text-anchor="middle">T.GIAN LỌC: 0.5 giờ</tspan>
-                </text>
-                <text class="ft-10" x="99" y="226" fill="#fff">
-                  <tspan text-anchor="middle">CHUẨN BỊ RỬA LỌC</tspan>
-                </text>
-              </g>
-            </g>
-            <g transform="translate(660 465)">
-              <g>
-                <path fill="#fff" d="m1,1h40v41h-40z"></path>
-                <path fill="#fff" d="m40,30h116v120h-116z"></path>
-                <path fill="#00CCFF" opacity="0.6" d="m1,1h40v41h-40z"></path>
-                <path
-                  fill="#00CCFF"
-                  opacity="0.6"
-                  d="m40,30h116v120h-116z"
-                ></path>
-                <path
-                  fill="#bbb"
-                  stroke="#4c4c4c"
-                  d="m1,1h40v150h115v-132h5v132h3v5h-131v-5h3v-105h-35v-4h35v-37h-35z"
-                ></path>
-                <path
-                  fill="#4c4c4c"
-                  stroke="#4c4c4c"
-                  d="m31,155h135v2h-135z"
-                ></path>
-                <path
-                  fill="none"
-                  stroke="none"
-                  d="m1,43v3h35v105h-3v5h131v-5h-3v-131"
-                ></path>
-                <path fill="none" stroke="none" d="m1,4v-3h39"></path>
-                <pattern
-                  id="pattern-checker"
-                  x="0"
-                  y="0"
-                  width="10"
-                  height="10"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
-                    fill="#bbb"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
-                    fill="#bbb"
-                  ></rect>
-                </pattern>
-                <rect
-                  x="41"
-                  y="110"
-                  width="115"
-                  height="20"
-                  fill="url(#pattern-checker)"
-                  stroke="#444"
-                ></rect>
-                <pattern
-                  id="pattern-circles"
-                  x="0"
-                  y="0"
-                  width="3"
-                  height="3"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <circle cx="3" cy="3" r="3" fill="#444"></circle>
-                </pattern>
-                <rect
-                  x="41"
-                  y="70"
-                  width="115"
-                  height="40"
-                  fill="url(#pattern-circles)"
-                  stroke="#444"
-                ></rect>
-                <text fill="#555" class="ft-10" x="52" y="146">
-                  BỂ LỌC THAN 7
-                </text>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m15,43v95h25"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m156,25h49v10"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,147h45v80"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,62h60v37m0,6v120"
-                ></path>
-                <text fill="#555" class="ft-10" x="170" y="245">MƯƠNG TN</text>
-                <text fill="#555" class="ft-10" x="170" y="22">MƯƠNG TN</text>
-                <path
-                  transform="translate(208,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,25) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <rect
-                  x="23"
-                  y="162"
-                  width="152"
-                  height="21"
-                  fill="#888"
-                  stroke="#444"
-                ></rect>
-                <rect
-                  x="23"
-                  y="186"
-                  width="152"
-                  height="21"
-                  fill="#aaff77"
-                  stroke="#aaff77"
-                ></rect>
-                <rect
-                  x="23"
-                  y="210"
-                  width="152"
-                  height="21"
-                  fill="#ff0000"
-                  stroke="#ff0000"
-                ></rect>
-                <text class="ft-10" x="99" y="178" fill="#fff">
-                  <tspan text-anchor="middle">KIỂM TRA ĐIỀU KIỆN</tspan>
-                </text>
-                <text class="ft-10" x="99" y="201" fill="#444">
-                  <tspan text-anchor="middle">T.GIAN LỌC: 0.5 giờ</tspan>
-                </text>
-                <text class="ft-10" x="99" y="226" fill="#fff">
-                  <tspan text-anchor="middle">CHUẨN BỊ RỬA LỌC</tspan>
-                </text>
-              </g>
-            </g>
-            <g transform="translate(960 465)">
-              <g>
-                <path fill="#fff" d="m1,1h40v41h-40z"></path>
-                <path fill="#fff" d="m40,30h116v120h-116z"></path>
-                <path fill="#00CCFF" opacity="0.6" d="m1,1h40v41h-40z"></path>
-                <path
-                  fill="#00CCFF"
-                  opacity="0.6"
-                  d="m40,30h116v120h-116z"
-                ></path>
-                <path
-                  fill="#bbb"
-                  stroke="#4c4c4c"
-                  d="m1,1h40v150h115v-132h5v132h3v5h-131v-5h3v-105h-35v-4h35v-37h-35z"
-                ></path>
-                <path
-                  fill="#4c4c4c"
-                  stroke="#4c4c4c"
-                  d="m31,155h135v2h-135z"
-                ></path>
-                <path
-                  fill="none"
-                  stroke="none"
-                  d="m1,43v3h35v105h-3v5h131v-5h-3v-131"
-                ></path>
-                <path fill="none" stroke="none" d="m1,4v-3h39"></path>
-                <pattern
-                  id="pattern-checker"
-                  x="0"
-                  y="0"
-                  width="10"
-                  height="10"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
-                    fill="#bbb"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="0"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="0"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
-                    fill="#777"
-                  ></rect>
-                  <rect
-                    x="5"
-                    width="5"
-                    height="5"
-                    y="5"
-                    stroke="#666"
-                    fill="#bbb"
-                  ></rect>
-                </pattern>
-                <rect
-                  x="41"
-                  y="110"
-                  width="115"
-                  height="20"
-                  fill="url(#pattern-checker)"
-                  stroke="#444"
-                ></rect>
-                <pattern
-                  id="pattern-circles"
-                  x="0"
-                  y="0"
-                  width="3"
-                  height="3"
-                  patternUnits="userSpaceOnUse"
-                >
-                  <circle cx="3" cy="3" r="3" fill="#444"></circle>
-                </pattern>
-                <rect
-                  x="41"
-                  y="70"
-                  width="115"
-                  height="40"
-                  fill="url(#pattern-circles)"
-                  stroke="#444"
-                ></rect>
-                <text fill="#555" class="ft-10" x="52" y="146">
-                  BỂ LỌC THAN 8
-                </text>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m15,43v95h25"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#56b8e7"
-                  d="m156,25h49v10"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,147h45v80"
-                ></path>
-                <path
-                  fill="none"
-                  stroke-width="2"
-                  stroke="#9b957f"
-                  d="m160,62h60v37m0,6v120"
-                ></path>
-                <text fill="#555" class="ft-10" x="170" y="245">MƯƠNG TN</text>
-                <text fill="#555" class="ft-10" x="170" y="22">MƯƠNG TN</text>
-                <path
-                  transform="translate(208,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,215) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <path
-                  transform="translate(192.5,25) scale(0.8 0.8)"
-                  fill="#999"
-                  stroke="#999"
-                  d="m10,10l5,8l5,-8z"
-                ></path>
-                <rect
-                  x="23"
-                  y="162"
-                  width="152"
-                  height="21"
-                  fill="#888"
-                  stroke="#444"
-                ></rect>
-                <rect
-                  x="23"
-                  y="186"
-                  width="152"
-                  height="21"
-                  fill="#aaff77"
-                  stroke="#aaff77"
-                ></rect>
-                <rect
-                  x="23"
-                  y="210"
-                  width="152"
-                  height="21"
-                  fill="#ff0000"
-                  stroke="#ff0000"
-                ></rect>
-                <text class="ft-10" x="99" y="178" fill="#fff">
-                  <tspan text-anchor="middle">KIỂM TRA ĐIỀU KIỆN</tspan>
-                </text>
-                <text class="ft-10" x="99" y="201" fill="#444">
-                  <tspan text-anchor="middle">T.GIAN LỌC: 0.5 giờ</tspan>
-                </text>
-                <text class="ft-10" x="99" y="226" fill="#fff">
-                  <tspan text-anchor="middle">CHUẨN BỊ RỬA LỌC</tspan>
-                </text>
-              </g>
-            </g>
-            <path
-              fill="none"
-              stroke-width="2.5"
-              stroke="#56b8e7"
-              d="m960,83h-20v-70h-922v705h922v-250h20"
-            ></path>
-            <path
-              fill="none"
-              stroke-width="2.5"
-              stroke="#56b8e7"
-              d="m660,83h-20v-70 m-300,0v70h20 m-300,0h-20v-70 m0,705v-250h20 m300,0h-20v250 m300,0v-250h20"
-            ></path>
-            <path fill="#fff" d="m1,320h35v88h-35z"></path>
-            <path fill="#00CCFF" opacity="0.6" d="m1,320h35v88h-35z"></path>
-            <text
-              fill="#fff"
-              transform="rotate(-90)"
-              class="ft-11 bold"
-              x="-392"
-              y="23"
+            <g
+              id="HcFQKs6fYubW8gQpR"
+              transform="translate(29 178)"
+              class="cursor"
             >
-              BỂ LẮNG
-            </text>
-            <path
-              fill="none"
-              stroke-width="2"
-              stroke="orange"
-              d="m217,162h90v405h-90 m300,0h90v-405h-90 m300,0h90v405h-90 m300,0h90v-405h-90 m110,210 h-930 m0,-7v14"
-            ></path>
-            <path
-              transform="translate(1219,357)"
-              fill="#999"
-              stroke="#999"
-              d="m10,10l-8,5l8,5"
-            ></path>
-            <text fill="#555" class="ft-10 bold" x="1030" y="363">
-              PHÂN PHỐI KHÍ RỬA LỌC
-            </text>
-          </g>
-          <g
-            id="Muy3vGuEB8nGETEjf"
-            transform="translate(-37 85)"
-            class="cursor"
-          >
-            <g transform="translate(-24 -24)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(39 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">l/h</tspan>
-                </text>
-                <rect x="55" y="68" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 25)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">3824.63</tspan>
-                </text>
-                <text
-                  transform="translate(39 25)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m3/h</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="hoCSRgZJESXi62hjw"
-            transform="translate(262 85)"
-            class="cursor"
-          >
-            <g transform="translate(-24 -24)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(39 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">l/h</tspan>
-                </text>
-                <rect x="55" y="68" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 25)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">3824.63</tspan>
-                </text>
-                <text
-                  transform="translate(39 25)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m3/h</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="e22hTm8MHzEARfeXW"
-            transform="translate(562 85)"
-            class="cursor"
-          >
-            <g transform="translate(-24 -24)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(39 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">l/h</tspan>
-                </text>
-                <rect x="55" y="68" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 25)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">3824.63</tspan>
-                </text>
-                <text
-                  transform="translate(39 25)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m3/h</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="zo3mLMxsFE4gCtawq"
-            transform="translate(862 86)"
-            class="cursor"
-          >
-            <g transform="translate(-24 -24)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(39 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">l/h</tspan>
-                </text>
-                <rect x="55" y="68" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 25)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">3824.63</tspan>
-                </text>
-                <text
-                  transform="translate(39 25)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m3/h</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="iBHSyrb9Fqbjvf9Wq"
-            transform="translate(-38 490)"
-            class="cursor"
-          >
-            <g transform="translate(-24 -24)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(39 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">l/h</tspan>
-                </text>
-                <rect x="55" y="68" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 25)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">3824.63</tspan>
-                </text>
-                <text
-                  transform="translate(39 25)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m3/h</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="DbtTfhzYEbTzd6JLu"
-            transform="translate(262 490)"
-            class="cursor"
-          >
-            <g transform="translate(-24 -24)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(39 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">l/h</tspan>
-                </text>
-                <rect x="55" y="68" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 25)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">3824.63</tspan>
-                </text>
-                <text
-                  transform="translate(39 25)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m3/h</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="uoQeQYjQgiGn4678R"
-            transform="translate(562 490)"
-            class="cursor"
-          >
-            <g transform="translate(-24 -24)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(39 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">l/h</tspan>
-                </text>
-                <rect x="55" y="68" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 25)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">3824.63</tspan>
-                </text>
-                <text
-                  transform="translate(39 25)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m3/h</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="tWao7xSPdRGJTkcMt"
-            transform="translate(862 490)"
-            class="cursor"
-          >
-            <g transform="translate(-24 -24)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(39 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">l/h</tspan>
-                </text>
-                <rect x="55" y="68" fill="#000" width="100" height="18"></rect>
-                <text
-                  transform="translate(30 25)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">3824.63</tspan>
-                </text>
-                <text
-                  transform="translate(39 25)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m3/h</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g id="Hr9xR7EY27wrkHGtv" transform="translate(84 77)" class="cursor">
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="rkZhvwFE7cA7ri77g"
-            transform="translate(387 76)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="WP7eWT9yWtZLgCxhX"
-            transform="translate(687 75)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="5fDNHJRiffdQZ2GE3"
-            transform="translate(987 75)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="Y4AczcvbrG9SDgLB8"
-            transform="translate(87 480)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="QknuPwn95eDAkXdHM"
-            transform="translate(386 480)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="tT2hYtsEonoSosSqk"
-            transform="translate(686 480)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="yjhziP28rN9Cxx2Si"
-            transform="translate(986 480)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">m</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="9gdSe8yEaY3s9mQXz"
-            transform="translate(180 24)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">NTU</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="i86bCTKHuGJeTxu4i"
-            transform="translate(479 24)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">NTU</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="FHjhRDRKAtmwmmA4r"
-            transform="translate(780 22)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">NTU</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="CES4aJ5ErvtMfCx9T"
-            transform="translate(1078 24)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">NTU</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="nPGPzEnWFX5bNWxTS"
-            transform="translate(180 428)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">NTU</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="uyrMWBDrqp8nGM3WY"
-            transform="translate(479 429)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">NTU</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="85RG9PAm9YznFAmfg"
-            transform="translate(778 430)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">NTU</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="A3kWXvHYJgee2koYp"
-            transform="translate(1078 429)"
-            class="cursor"
-          >
-            <g transform="translate(-19 -22)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text
-                  transform="translate(14 5)"
-                  class="ft-8"
-                  x="113.5"
-                  y="56.2"
-                  fill="#ddd"
-                >
-                  <tspan text-anchor="end">NTU</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="0"
-              y="0"
-              width="50"
-              height="50"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="xFprEpcdrpXDWMQir"
-            transform="translate(-82 139)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(121 50)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(270)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6c6b"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+              <g transform="translate(-24 -24)">
+                <g>
+                  <rect
+                    x="55"
+                    y="48"
+                    fill="#000"
+                    width="100"
+                    height="18"
+                  ></rect>
+                  <text
+                    transform="translate(30 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text
+                    transform="translate(39 5)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">bar</tspan>
+                  </text>
+                  <rect
+                    x="55"
+                    y="68"
+                    fill="#000"
+                    width="100"
+                    height="18"
+                  ></rect>
+                  <text
+                    transform="translate(30 25)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">3824.63</tspan>
+                  </text>
+                  <text
+                    transform="translate(39 25)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">m3/h</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <g transform="translate(39 3)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text class="ft-8" x="112" y="61.2" fill="#ddd">
-                  <tspan text-anchor="end">%</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="121"
-              y="50"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="jpLYXP9yHW6nwihna"
-            transform="translate(216 119)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="aTCifuLo6jHMsk8fG"
+              transform="translate(48 236)"
+              class="cursor"
+            >
+              <g transform="translate(-19 -22)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text
+                    transform="translate(14 5)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">NTU</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="KzX4idGvouKsaPZnw"
-            transform="translate(215 78)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="6egzakzyeyKrycq8F"
+              transform="translate(48 216)"
+              class="cursor"
+            >
+              <g transform="translate(-19 -22)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text
+                    transform="translate(14 5)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">pH</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="HKrc9spGNCqXbS2GH"
-            transform="translate(215 163)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="DMujToivPvB8aQ2ph"
+              transform="translate(964 577)"
+              class="cursor"
+            >
+              <g transform="translate(-24 -24)">
+                <g>
+                  <rect
+                    x="55"
+                    y="48"
+                    fill="#000"
+                    width="100"
+                    height="18"
+                  ></rect>
+                  <text
+                    transform="translate(30 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text
+                    transform="translate(39 5)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">bar</tspan>
+                  </text>
+                  <rect
+                    x="55"
+                    y="68"
+                    fill="#000"
+                    width="100"
+                    height="18"
+                  ></rect>
+                  <text
+                    transform="translate(30 25)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">3824.63</tspan>
+                  </text>
+                  <text
+                    transform="translate(39 25)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">m3/h</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="9xCkL352u8zkQSAYj"
-            transform="translate(219 138)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(121 50)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(270)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6c6b"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="6r5oEz8dC9RejKe6Z"
+              transform="translate(964 396)"
+              class="cursor"
+            >
+              <g transform="translate(-24 -24)">
+                <g>
+                  <rect
+                    x="55"
+                    y="48"
+                    fill="#000"
+                    width="100"
+                    height="18"
+                  ></rect>
+                  <text
+                    transform="translate(30 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text
+                    transform="translate(39 5)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">bar</tspan>
+                  </text>
+                  <rect
+                    x="55"
+                    y="68"
+                    fill="#000"
+                    width="100"
+                    height="18"
+                  ></rect>
+                  <text
+                    transform="translate(30 25)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">3824.63</tspan>
+                  </text>
+                  <text
+                    transform="translate(39 25)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">m3/h</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <g transform="translate(39 3)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text class="ft-8" x="112" y="61.2" fill="#ddd">
-                  <tspan text-anchor="end">%</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="121"
-              y="50"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="txYA5gmRwDd35A8Az"
-            transform="translate(516 119)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="fhaWRT2JwXw8pigFL"
+              transform="translate(963 217)"
+              class="cursor"
+            >
+              <g transform="translate(-24 -24)">
+                <g>
+                  <rect
+                    x="55"
+                    y="48"
+                    fill="#000"
+                    width="100"
+                    height="18"
+                  ></rect>
+                  <text
+                    transform="translate(30 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text
+                    transform="translate(39 5)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">bar</tspan>
+                  </text>
+                  <rect
+                    x="55"
+                    y="68"
+                    fill="#000"
+                    width="100"
+                    height="18"
+                  ></rect>
+                  <text
+                    transform="translate(30 25)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">3824.63</tspan>
+                  </text>
+                  <text
+                    transform="translate(39 25)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">m3/h</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="sS6geb6jPYm3qwq9S"
-            transform="translate(517 79)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="XCAkTEZRqzn3KYAKT"
+              transform="translate(964 37)"
+              class="cursor"
+            >
+              <g transform="translate(-24 -24)">
+                <g>
+                  <rect
+                    x="55"
+                    y="48"
+                    fill="#000"
+                    width="100"
+                    height="18"
+                  ></rect>
+                  <text
+                    transform="translate(30 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text
+                    transform="translate(39 5)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">bar</tspan>
+                  </text>
+                  <rect
+                    x="55"
+                    y="68"
+                    fill="#000"
+                    width="100"
+                    height="18"
+                  ></rect>
+                  <text
+                    transform="translate(30 25)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">3824.63</tspan>
+                  </text>
+                  <text
+                    transform="translate(39 25)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">m3/h</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="WTCQB9GdBfn5aWT2C"
-            transform="translate(516 163)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="CrfvSnQgPT8gCqCxq"
+              transform="translate(958 507)"
+              class="cursor"
+            >
+              <g transform="translate(-19 -22)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text
+                    transform="translate(14 5)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">NTU</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="N5PQyQZvKdSEHAhoE"
-            transform="translate(518 138)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(121 50)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(270)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6c6b"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="7Zv6CA5pDoz7LGkm7"
+              transform="translate(958 327)"
+              class="cursor"
+            >
+              <g transform="translate(-19 -22)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text
+                    transform="translate(14 5)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">NTU</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <g transform="translate(39 3)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text class="ft-8" x="112" y="61.2" fill="#ddd">
-                  <tspan text-anchor="end">%</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="121"
-              y="50"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="MFqjxNCSBMoPZiMQX"
-            transform="translate(815 118)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="dJpyGTvB4hy6mRoks"
+              transform="translate(957 148)"
+              class="cursor"
+            >
+              <g transform="translate(-19 -22)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text
+                    transform="translate(14 5)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">NTU</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="BaXcXWdusur6NeZQ6"
-            transform="translate(815 79)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="6kZ7NwecxGLfs2Hmm"
+              transform="translate(959 -28)"
+              class="cursor"
+            >
+              <g transform="translate(-19 -22)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="75" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text
+                    transform="translate(14 5)"
+                    class="ft-8"
+                    x="113.5"
+                    y="56.2"
+                    fill="#ddd"
+                  >
+                    <tspan text-anchor="end">NTU</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="MYyvZ7RKWiTQmBhMn"
-            transform="translate(815 163)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="5hd4ycyhL6JFd8E4P"
+              transform="translate(175 564)"
+              class="cursor"
+            >
+              <g id="Obj_1" transform="translate(18 8)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(0)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6b6c"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
+              <rect
+                x="18"
+                y="8"
+                width="23.739593505859375"
+                height="35.015869140625"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="QCGh2HMpWL3fE6ggR"
-            transform="translate(819 139)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(121 50)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(270)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6c6b"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="WAjFbsM66mTvDTTS4"
+              transform="translate(266 629)"
+              class="cursor"
+            >
+              <g transform="translate(15 50)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
-            </g>
-            <g transform="translate(39 3)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text class="ft-8" x="112" y="61.2" fill="#ddd">
-                  <tspan text-anchor="end">%</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="121"
-              y="50"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="pdoutQGNfGLs5zqE6"
-            transform="translate(1117 119)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+              <g transform="translate(6 -19)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text class="ft-8" x="112" y="61.2" fill="#ddd">
+                    <tspan text-anchor="end">%</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="PPgRoHa5hTZCEcZXH"
-            transform="translate(1117 79)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="nrEQHH9p9JpPyKPzW"
+              transform="translate(821 542)"
+              class="cursor"
+            >
+              <g transform="translate(30 19)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(0)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
-            </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="Wnzik9RKkCNA836EK"
-            transform="translate(1117 164)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+              <g transform="translate(2 -24)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text class="ft-8" x="112" y="61.2" fill="#ddd">
+                    <tspan text-anchor="end">%</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="NdM5GG4YxA2PoEWt2"
-            transform="translate(-82 543)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(121 50)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(270)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6c6b"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="cBFn8ApF3uqg9rpb4"
+              transform="translate(384 639)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <g transform="translate(39 3)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text class="ft-8" x="112" y="61.2" fill="#ddd">
-                  <tspan text-anchor="end">%</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="121"
-              y="50"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="dSpYoWdAEorhxuzG7"
-            transform="translate(215 524)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="LFhATF8nmbc6NunS8"
+              transform="translate(484 638)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="u7wYSY7WuK5wtp9Gv"
-            transform="translate(215 483)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="wmofWm8e2RevA9dSt"
+              transform="translate(579 637)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="gKehxZWXNLt2SqXeN"
-            transform="translate(215 569)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="Rz6W9xMrweim89MLT"
+              transform="translate(679 637)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="Kxr87u88LCoMpKZG5"
-            transform="translate(218 544)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(121 50)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(270)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6c6b"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="PtGLfKbwvmbChDdNA"
+              transform="translate(176 383)"
+              class="cursor"
+            >
+              <g id="Obj_1" transform="translate(18 8)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(0)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6b6c"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
+              <rect
+                x="18"
+                y="8"
+                width="23.739593505859375"
+                height="35.015869140625"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <g transform="translate(39 3)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text class="ft-8" x="112" y="61.2" fill="#ddd">
-                  <tspan text-anchor="end">%</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="121"
-              y="50"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="sim3tF3ee2ejZEJJ7"
-            transform="translate(516 524)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="6Wu5B59X5sjvc79JL"
+              transform="translate(265 449)"
+              class="cursor"
+            >
+              <g transform="translate(15 50)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
-            </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="begefZExcYBCmiRZa"
-            transform="translate(516 569)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+              <g transform="translate(6 -19)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text class="ft-8" x="112" y="61.2" fill="#ddd">
+                    <tspan text-anchor="end">%</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="TS4w9wNmorWEmozdS"
-            transform="translate(516 484)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="yth3yrDqozHAbC3oW"
+              transform="translate(822 363)"
+              class="cursor"
+            >
+              <g transform="translate(30 19)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(0)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
-            </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="gMCsiqDBLZJS6F7Yd"
-            transform="translate(519 544)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(121 50)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(270)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6c6b"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+              <g transform="translate(2 -24)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text class="ft-8" x="112" y="61.2" fill="#ddd">
+                    <tspan text-anchor="end">%</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <g transform="translate(39 3)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text class="ft-8" x="112" y="61.2" fill="#ddd">
-                  <tspan text-anchor="end">%</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="121"
-              y="50"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="8rinYhC7fdZMr25h7"
-            transform="translate(814 524)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="s67Hobf88EpWs4HF9"
+              transform="translate(384 459)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="FJbhpyyTChwmMsiXr"
-            transform="translate(814 569)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="DzWtEDMxDCLFor4kM"
+              transform="translate(484 458)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="GWtN2ELrJjtArpHeF"
-            transform="translate(814 484)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="bJ4zpTGYufQAwFRyD"
+              transform="translate(579 458)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="LfSAjKduPhX8YXE8q"
-            transform="translate(818 543)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(121 50)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(270)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6c6b"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="c7JrWoyQ3JysygzNE"
+              transform="translate(679 458)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <g transform="translate(39 3)">
-              <g>
-                <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
-                <text
-                  transform="translate(11 5)"
-                  class="ft-10_5"
-                  x="65"
-                  y="57.2"
-                  fill="#fff"
-                >
-                  <tspan text-anchor="middle">0</tspan>
-                </text>
-                <text class="ft-8" x="112" y="61.2" fill="#ddd">
-                  <tspan text-anchor="end">%</tspan>
-                </text>
-              </g>
-            </g>
-            <rect
-              x="121"
-              y="50"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="d69e3jE9Ppnirc4F5"
-            transform="translate(1113 524)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="7P2jvF3SXHwvLzFqW"
+              transform="translate(175 204)"
+              class="cursor"
+            >
+              <g id="Obj_1" transform="translate(18 8)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(0)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6b6c"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
+              <rect
+                x="18"
+                y="8"
+                width="23.739593505859375"
+                height="35.015869140625"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="oB238TpH6QZftFdcv"
-            transform="translate(1113 567)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+            <g
+              id="Np8mv8pFX3BN4St3e"
+              transform="translate(266 269)"
+              class="cursor"
+            >
+              <g transform="translate(15 50)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
                 </g>
               </g>
-            </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g
-            id="tcvKmcuYTb2HzohWY"
-            transform="translate(1113 483)"
-            class="cursor"
-          >
-            <g id="Obj_1" transform="translate(18 8)">
-              <g transform="scale(0.6 0.6)">
-                <g transform="rotate(0)">
-                  <path
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M1,48 l40,22 v-22 l-40,22z"
-                    fill="#ff6b6c"
-                  ></path>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M21,41 v18"
-                  ></path>
-                  <circle
-                    fill="#dfdfdf"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    cx="21"
-                    cy="29"
-                    r="18"
-                  ></circle>
-                  <path
-                    fill="none"
-                    stroke="#4c4c4c"
-                    stroke-width="1"
-                    d="M13,38 v-17 l8,17 l8,-17 v17"
-                  ></path>
+              <g transform="translate(6 -19)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text class="ft-8" x="112" y="61.2" fill="#ddd">
+                    <tspan text-anchor="end">%</tspan>
+                  </text>
                 </g>
               </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
             </g>
-            <rect
-              x="18"
-              y="8"
-              width="35.015892028808594"
-              height="23.739578247070312"
-              fill="#fff"
-              stroke="#none"
-              opacity="0"
-            ></rect>
-          </g>
-          <g transform="translate(100 130)">
-            <path
-              fill="red"
-              opacity="0"
-              d="m1,1h115v70h-115z"
-              style="cursor: pointer"
-            ></path>
-          </g>
-          <g transform="translate(400 130)">
-            <path
-              fill="red"
-              opacity="0"
-              d="m1,1h115v70h-115z"
-              style="cursor: pointer"
-            ></path>
-          </g>
-          <g transform="translate(700 130)">
-            <path
-              fill="red"
-              opacity="0"
-              d="m1,1h115v70h-115z"
-              style="cursor: pointer"
-            ></path>
-          </g>
-          <g transform="translate(1000 130)">
-            <path
-              fill="red"
-              opacity="0"
-              d="m1,1h115v70h-115z"
-              style="cursor: pointer"
-            ></path>
-          </g>
-          <g transform="translate(100 510)">
-            <path
-              fill="red"
-              opacity="0"
-              d="m1,1h115v70h-115z"
-              style="cursor: pointer"
-            ></path>
-          </g>
-          <g transform="translate(400 510)">
-            <path
-              fill="red"
-              opacity="0"
-              d="m1,1h115v70h-115z"
-              style="cursor: pointer"
-            ></path>
-          </g>
-          <g transform="translate(700 510)">
-            <path
-              fill="red"
-              opacity="0"
-              d="m1,1h115v70h-115z"
-              style="cursor: pointer"
-            ></path>
-          </g>
-          <g transform="translate(1000 510)">
-            <path
-              fill="red"
-              opacity="0"
-              d="m1,1h115v70h-115z"
-              style="cursor: pointer"
-            ></path>
-          </g>
-        </svg>
-      </div>
-      <div class="for-des g-col-12 g-col-lg-4 bg-grid-layout">
-        <div class="col-md-6 col-lg-12 tools-trend mt-3 px-0">
-          <canvas
-            role="img"
-            height="350"
-            width="579"
-            style="
-              display: block;
-              box-sizing: border-box;
-              height: 350px;
-              width: 579px;
-            "
-          ></canvas>
-        </div>
-        <div class="col-md-6 col-lg-12 tools-trend px-0">
-          <canvas
-            role="img"
-            height="350"
-            width="579"
-            style="
-              display: block;
-              box-sizing: border-box;
-              height: 350px;
-              width: 579px;
-            "
-          ></canvas>
-        </div>
-      </div>
-      <div>
-      </div>
-      <div>
-      </div>
-      <div>
-        <div >
-          <div class="table__sm table-scroll tb-alarm">
-            <div class="react-bs-table-container">
-              <div
-                class="react-bs-table react-bs-table-bordered"
-                style="height: 100%"
+            <g
+              id="CmKrFzBZCpgCLA3Pb"
+              transform="translate(821 183)"
+              class="cursor"
+            >
+              <g transform="translate(30 19)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(0)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
+                </g>
+              </g>
+              <g transform="translate(2 -24)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text class="ft-8" x="112" y="61.2" fill="#ddd">
+                    <tspan text-anchor="end">%</tspan>
+                  </text>
+                </g>
+              </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
+            </g>
+            <g
+              id="k8MzHbmdNcpbgaaky"
+              transform="translate(384 279)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
+                </g>
+              </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
+            </g>
+            <g
+              id="Q4sSTEGQ9ghJjbZRz"
+              transform="translate(484 279)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
+                </g>
+              </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
+            </g>
+            <g
+              id="7FgZzK3cukqPR7Gm6"
+              transform="translate(579 279)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
+                </g>
+              </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
+            </g>
+            <g
+              id="KqezxNq9got3r6Y5m"
+              transform="translate(679 279)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
+                </g>
+              </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
+            </g>
+            <g
+              id="ZzoZZq8jjwbLjicgX"
+              transform="translate(174 24)"
+              class="cursor"
+            >
+              <g id="Obj_1" transform="translate(18 8)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(0)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6b6c"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
+                </g>
+              </g>
+              <rect
+                x="18"
+                y="8"
+                width="23.739593505859375"
+                height="35.015869140625"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
+            </g>
+            <g
+              id="mP7xtWy4PtbtF8x37"
+              transform="translate(266 90)"
+              class="cursor"
+            >
+              <g transform="translate(15 50)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
+                </g>
+              </g>
+              <g transform="translate(6 -19)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text class="ft-8" x="112" y="61.2" fill="#ddd">
+                    <tspan text-anchor="end">%</tspan>
+                  </text>
+                </g>
+              </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
+            </g>
+            <g
+              id="zeboukBDCELGhMqza"
+              transform="translate(819 3)"
+              class="cursor"
+            >
+              <g transform="translate(30 19)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(0)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
+                </g>
+              </g>
+              <g transform="translate(2 -24)">
+                <g>
+                  <rect x="55" y="48" fill="#000" width="60" height="18"></rect>
+                  <text
+                    transform="translate(11 5)"
+                    class="ft-10_5"
+                    x="65"
+                    y="57.2"
+                    fill="#fff"
+                  >
+                    <tspan text-anchor="middle">0</tspan>
+                  </text>
+                  <text class="ft-8" x="112" y="61.2" fill="#ddd">
+                    <tspan text-anchor="end">%</tspan>
+                  </text>
+                </g>
+              </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
+            </g>
+            <g
+              id="De98YojjygGfELsWQ"
+              transform="translate(384 101)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
+                </g>
+              </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
+            </g>
+            <g
+              id="DYCF3asAr6fynarPB"
+              transform="translate(484 100)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
+                </g>
+              </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
+            </g>
+            <g
+              id="GiTSWJuGNGf2v4Xhv"
+              transform="translate(579 101)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
+                </g>
+              </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
+            </g>
+            <g
+              id="wHtabpefRwXCHoakw"
+              transform="translate(679 101)"
+              class="cursor"
+            >
+              <g transform="translate(4 41)">
+                <g transform="scale(0.6 0.6)">
+                  <g transform="rotate(270)">
+                    <path
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M1,48 l40,22 v-22 l-40,22z"
+                      fill="#ff6c6b"
+                    ></path>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M21,41 v18"
+                    ></path>
+                    <circle
+                      fill="#dfdfdf"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      cx="21"
+                      cy="29"
+                      r="18"
+                    ></circle>
+                    <path
+                      fill="none"
+                      stroke="#4c4c4c"
+                      stroke-width="1"
+                      d="M13,38 v-17 l8,17 l8,-17 v17"
+                    ></path>
+                  </g>
+                </g>
+              </g>
+              <rect
+                x="0"
+                y="0"
+                width="50"
+                height="50"
+                fill="#fff"
+                stroke="#none"
+                opacity="0"
+              ></rect>
+            </g>
+            <g transform="translate(80 333)">
+              <path fill="#F5AF59" d="m18,144h150v27h-150"></path>
+              <text
+                fill="#fff"
+                class="ft-11"
+                x="25"
+                y="164"
+                style="cursor: pointer"
               >
-                <div class="react-bs-container-header table-header-wrapper">
-                  <table class="table table-hover table-bordered">
-                    <colgroup>
-                      <col />
-                      <col />
-                      <col style="width: 250px; min-width: 250px" />
-                    </colgroup>
-                    <thead>
-                      <tr>
-                        <th
-                          class=""
-                          data-is-only-head="false"
-                          title="Thời gian"
-                          data-field="eventtime"
-                          style="text-align: left"
-                        >
-                          Thời gian
-                          <div></div>
-                        </th>
-                        <th
-                          class=""
-                          data-is-only-head="false"
-                          title="Khu vực"
-                          data-field="area"
-                          style="text-align: left"
-                        >
-                          Khu vực
-                          <div></div>
-                        </th>
-                        <th
-                          class=""
-                          data-is-only-head="false"
-                          title="Cảnh báo"
-                          data-field="message"
-                          style="text-align: left"
-                        >
-                          Cảnh báo
-                          <div></div>
-                        </th>
-                      </tr>
-                    </thead>
-                  </table>
-                </div>
-                <div class="react-bs-container-body" style="height: 100%">
-                  <table class="table table-bordered">
-                    <colgroup>
-                      <col />
-                      <col />
-                      <col style="width: 250px; min-width: 250px" />
-                    </colgroup>
-                    <tbody>
-                      <tr class="">
-                        <td
-                          data-toggle="collapse"
-                          colspan="3"
-                          class="react-bs-table-no-data"
-                        >
-                          There is no data to display
-                        </td>
-                      </tr>
-                    </tbody>
-                  </table>
-                </div>
-              </div>
-              <div class="s-alert-wrapper"></div>
+                CHU TRÌNH XẢ BÙN
+              </text>
+            </g>
+            <g transform="translate(80 513)">
+              <path fill="#F5AF59" d="m18,144h150v27h-150"></path>
+              <text
+                fill="#fff"
+                class="ft-11"
+                x="25"
+                y="164"
+                style="cursor: pointer"
+              >
+                CHU TRÌNH XẢ BÙN
+              </text>
+            </g>
+            <g transform="translate(730 333)">
+              <path fill="#61C6CE" d="m18,144h200v27h-200"></path>
+              <text
+                fill="#fff"
+                class="ft-11"
+                x="25"
+                y="164"
+                style="cursor: pointer"
+              >
+                CHU TRÌNH LẤY NƯỚC MẶT
+              </text>
+            </g>
+            <g transform="translate(730 513)">
+              <path fill="#61C6CE" d="m18,144h200v27h-200"></path>
+              <text
+                fill="#fff"
+                class="ft-11"
+                x="25"
+                y="164"
+                style="cursor: pointer"
+              >
+                CHU TRÌNH LẤY NƯỚC MẶT
+              </text>
+            </g>
+          </svg>
+        </div>
+        <div class="for-des g-col-12 g-col-lg-4 bg-grid-layout">
+          <div class="col-md-6 col-lg-12 tools-trend mt-3 px-0">
+            <div style="height: 350px; width: 579px">
+              <LineChart title="Độ đục nguồn lắng"/>
             </div>
           </div>
+          <div class="col-md-6 col-lg-12 tools-trend px-0">
+            <div style="height: 350px; width: 579px">
+              <LineChart title="Lưu lượng thu nước"/>
+            </div>
+          </div>
+        </div>
+        <div class="g-col-12 g-col-lg-3 bg-grid-layout">
+          <div class="mb-0">
+            <div class="control__panelBasic">
+              <div class="control__header">
+                <div>ĐIỀU KHIỂN BỂ LẮNG</div>
+              </div>
+              <div class="control__body">
+                <div
+                  class="d-flex flex-row justify-content-between control__bottom--xs"
+                >
+                  <div class="d__4">
+                    <button
+                      type="button"
+                      class="btn btn-secondary btn-sm btn-radius btn-block fz-12"
+                    >
+                      TỰ ĐỘNG
+                    </button>
+                  </div>
+                  <div class="d__4">
+                    <button
+                      type="button"
+                      class="btn btn-secondary btn-sm btn-disable btn-radius btn-block disabled fz-12"
+                    >
+                      CHẠY
+                    </button>
+                  </div>
+                  <div class="d__4">
+                    <div>
+                      <button
+                        type="button"
+                        class="btn btn-secondary btn-sm btn-radius btn-block fz-12"
+                      >
+                        ĐIỀU KIỆN
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="d-flex flex-row justify-content-between control__bottom--xs"
+                >
+                  <div class="d__4">
+                    <button
+                      type="button"
+                      class="btn btn-success btn-sm btn-radius btn-block fz-12"
+                    >
+                      BẰNG TAY
+                    </button>
+                  </div>
+                  <div class="d__4">
+                    <button
+                      type="button"
+                      class="btn btn-secondary btn-sm btn-radius btn-block disabled fz-12"
+                    >
+                      DỪNG
+                    </button>
+                  </div>
+                  <div class="d__4">
+                    <div>
+                      <button
+                        type="button"
+                        class="btn btn-secondary btn-sm btn-radius btn-block fz-12"
+                      >
+                        CÀI ĐẶT
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div
+                  class="d-flex flex-row justify-content-between control__top--xs"
+                >
+                  <div class="d__4"></div>
+                  <div class="d__4"></div>
+                  <div class="d__4">
+                    <button
+                      type="button"
+                      name="modalReset"
+                      class="btn btn-warning btn-sm btn-radius btn-block fz-12"
+                    >
+                      XÓA LỖI
+                    </button>
+                  </div>
+                </div>
+              </div>
+              <div class="line"></div>
+              <div class="control__body">
+                <div class="d-flex flex-row justify-content-between">
+                  <div class="d__4"><div>Trạng thái:</div></div>
+                  <div><div class="bold">Sẵn sàng</div></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="g-col-12 g-col-lg-5 bg-grid-layout">
+          <div>
+            <table class="table mb-0 setting-table">
+              <tbody>
+                <tr class="table-danger">
+                  <td>Chu kỳ xả bùn bể lắng 01</td>
+                  <td>24h / 23h:35min</td>
+                  <td>Thời gian mở van thu nước mặt lắng 01)</td>
+                  <td>72h / 31h:53min</td>
+                </tr>
+                <tr>
+                  <td>Chu kỳ xả bùn bể lắng 02</td>
+                  <td>24h / 23h:35min</td>
+                  <td>Thời gian mở van thu nước mặt lắng 02</td>
+                  <td>72h / 31h:53min</td>
+                </tr>
+                <tr>
+                  <td>Chu kỳ xả bùn bể lắng 03</td>
+                  <td>24h / 23h:35min</td>
+                  <td>Thời gian mở van thu nước mặt lắng 03</td>
+                  <td>72h / 31h:53min</td>
+                </tr>
+                <tr>
+                  <td>Chu kỳ xả bùn bể lắng 04</td>
+                  <td>24h / 23h:35min</td>
+                  <td>Thời gian mở van thu nước mặt lắng 04</td>
+                  <td>72h / 31h:53min</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="g-col-12 g-col-lg-4 bg-grid-layout">
+          <div class="col-12 col-lg-12 px-0">
+            <div class="table__sm table-scroll tb-alarm">
+              <div class="react-bs-table-container">
+                <div
+                  class="react-bs-table react-bs-table-bordered"
+                  style="height: 100%"
+                >
+                  <div class="react-bs-container-header table-header-wrapper">
+                    <table class="table table-hover table-bordered">
+                      <colgroup>
+                        <col />
+                        <col />
+                        <col style="width: 250px; min-width: 250px" />
+                      </colgroup>
+                      <thead>
+                        <tr>
+                          <th
+                            class=""
+                            data-is-only-head="false"
+                            title="Thời gian"
+                            data-field="eventtime"
+                            style="text-align: left"
+                          >
+                            Thời gian
+                            <div></div>
+                          </th>
+                          <th
+                            class=""
+                            data-is-only-head="false"
+                            title="Khu vực"
+                            data-field="area"
+                            style="text-align: left"
+                          >
+                            Khu vực
+                            <div></div>
+                          </th>
+                          <th
+                            class=""
+                            data-is-only-head="false"
+                            title="Cảnh báo"
+                            data-field="message"
+                            style="text-align: left"
+                          >
+                            Cảnh báo
+                            <div></div>
+                          </th>
+                        </tr>
+                      </thead>
+                    </table>
+                  </div>
+                  <div class="react-bs-container-body" style="height: 100%">
+                    <table class="table table-bordered">
+                      <colgroup>
+                        <col />
+                        <col />
+                        <col style="width: 250px; min-width: 250px" />
+                      </colgroup>
+                      <tbody>
+                        <tr class="">
+                          <td
+                            data-toggle="collapse"
+                            colspan="3"
+                            class="react-bs-table-no-data"
+                          >
+                            There is no data to display
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+                <div class="s-alert-wrapper"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="contextMenu" style="display: none">
+          <div class="optionsList customContextmenuAreaListWrapper"></div>
         </div>
       </div>
     </div>
   </div>
 </template>
+<script setup>
+import LineChart from "./lineChart.vue"
+</script>
